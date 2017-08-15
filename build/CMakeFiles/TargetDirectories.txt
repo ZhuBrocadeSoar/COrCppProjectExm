@@ -1,0 +1,5 @@
+/home/soar/projectExp/build/CMakeFiles/rebuild_cache.dir
+/home/soar/projectExp/build/CMakeFiles/edit_cache.dir
+/home/soar/projectExp/build/bin/CMakeFiles/rebuild_cache.dir
+/home/soar/projectExp/build/bin/CMakeFiles/cameratest.dir
+/home/soar/projectExp/build/bin/CMakeFiles/edit_cache.dir
